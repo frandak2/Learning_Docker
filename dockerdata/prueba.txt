@@ -1,0 +1,3 @@
+gracias a mi experiencia manipulando informacion espacial me ha permitido desarrollar ciertas habilidades para detectar o detallar informacion que puede estar en nuestros datos pero si obviamos cierto tipo de relacion no podriamos ver las diferencia entre nuestros datos, y de esa manera nos podria costar un poco mas a novel computacional o en la explicacion de la idea de negocio hacia los usuarios
+
+My experience in the manipulation of spatial information has allowed me to develop skills to detect hidden information in our data. By not seeing the relationship, the business idea would have less clarity for users
